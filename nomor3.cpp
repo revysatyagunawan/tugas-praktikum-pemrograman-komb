@@ -51,4 +51,6 @@ int main() {
     akar_persamaan_kuadrat(2, 9, 10);
     akar_persamaan_kuadrat(25, 30, 9);
     akar_persamaan_kuadrat(2, 7, 25);
+
+    return 0;
 }
